@@ -1,0 +1,6 @@
+anon
+public
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt5bnlsYXpqeG1uZHFkemptcm52Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI2NzY3MDYsImV4cCI6MjA4ODI1MjcwNn0.qxgbJcV1IpYdVJ1Pi3MHKWN-CQwyO3_mVbTWhrfRMAs
+
+https://kynylazjxmndqdzjmrnv.supabase.co
